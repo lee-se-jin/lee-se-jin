@@ -1,4 +1,4 @@
-## Hi, I'm Sejin ‧₊˚❀༉‧₊˚.
+## Hi, I'm Sejin *ੈ✩‧₊˚
 
 <!-- 
 
@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my profile! I'm an applied computer science student, and part-time registered nurse. Thanks for visiting and I'd love to <a href="[https://www.linkedin.com/in/sejin-lee-/]">connect</a>!
+<h3>About me</h3>
+<ul>
+  <li>👩‍💻 Registered nurse in case management</li>
+  <li>💻 Applied computer science student</li>
+  <li>✨ Aspiring nurse informaticist</li>
+</ul>
+<hr>
