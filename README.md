@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sejin ‧₊˚❀༉‧₊˚.
 
 <!-- 
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile! I'm an applied computer science student, and part-time registered nurse. Thanks for visiting and I'd love to <a href="[https://www.linkedin.com/in/sejin-lee-/]">connect</a>!
