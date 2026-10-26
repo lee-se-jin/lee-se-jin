@@ -16,9 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a registered nurse in case management. I've been working as a nurse for over 6 years in hospitals, the community, and home care. Through the years I've seen how electronic patient health and medical records influence patient care. This inspired me to become involved in digital health! I'm currently studying applied computer science, and my goal is to become a nurse informaticist.
-<h3>Fun facts</h3>
-<ul>
-  <li>My name is pronounced SEH-jin (/sɛdʒɪn/)</li>
-  <li>When I'm not at work or school, I'm probably planning my next vacation. I love traveling for concerts, and my favourite music festival is Lollapalooza in Chicago</li>
-</ul>
+I'm a registered nurse in case management. I've been working as a nurse for over 7 years in hospitals, the community, and home care. Through the years I've seen how electronic patient health and medical records influence patient care. This inspired me to become involved in digital health! I'm currently studying applied computer science, and my goal is to become a nurse informaticist.
